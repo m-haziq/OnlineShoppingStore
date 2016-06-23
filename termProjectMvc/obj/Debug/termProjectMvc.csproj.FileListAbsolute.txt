@@ -257,3 +257,35 @@ C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Ele project\term
 C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Ele project\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.csprojResolveAssemblyReference.cache
 C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Ele project\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.dll
 C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Ele project\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.pdb
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\termProjectMvc.dll.config
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\termProjectMvc.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\termProjectMvc.pdb
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Antlr3.Runtime.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\EntityFramework.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Newtonsoft.Json.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.Web.Common.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.Web.Mvc.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Mvc.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Optimization.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Providers.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Razor.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\WebActivatorEx.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\WebGrease.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.Web.Common.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Ninject.Web.Mvc.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\EntityFramework.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\Newtonsoft.Json.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Mvc.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.Razor.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.csprojResolveAssemblyReference.cache
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.dll
+C:\Users\M Haziq\Documents\Visual Studio 2013\Projects\ProjectX\Online Shopping Store\termProjectMvc\termProjectMvc\obj\Debug\termProjectMvc.pdb
